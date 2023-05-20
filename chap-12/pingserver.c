@@ -64,6 +64,7 @@ int main(int argc, char **argv) {
         printf("received %d bytes\n", n, message);
         count++;
 
+        // 按类型处理数据
         switch (ntohl(message.type)) {
             case MSG_TYPE1 :
                 printf("process  MSG_TYPE1 \n");

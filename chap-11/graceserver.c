@@ -71,4 +71,18 @@ int main(int argc, char **argv) {
 
 }
 
+// 对于RST套接字操作，会触发SIG_PIPE信号
+// 避免异常退出
+// static void sig_pipe(int signo) {
+//     printf("\nreceived %d datagrams\n", count);
+//     exit(0);
+// }
+// signal(SIGINT, sig_pipe);
+
+// exit 释放所有资源
+// 信号的处理方式
+// 信号的处理有三种，默认处理，忽略处理，自定义处理。
+// 默认处理就是采用系统自定义的操作，大部分信号的默认处理都是杀死进程，
+// 忽略处理就是当做什么都没有发生。
+
 

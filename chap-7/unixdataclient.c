@@ -12,6 +12,8 @@ int main(int argc, char **argv) {
     int sockfd;
     struct sockaddr_un client_addr, server_addr;
 
+    // AF_LOCAL 用创建本地套接字
+    // domain IPV4 IPV6 loacal common_socket
     sockfd = socket(AF_LOCAL, SOCK_DGRAM, 0);
     if (sockfd < 0) {
         error(1, errno, "create socket failed");

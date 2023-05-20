@@ -11,6 +11,11 @@ static void sig_int(int signo) {
     exit(0);
 }
 
+// 四元组不同就是新的套接字
+// 第一种优化是新连接 SYN 告知的初始序列号，一定比 TIME_WAIT 老连接的末序列号大，这样通过序列号就可以区别出新老连接。
+// 第二种优化是开启了 tcp_timestamps，使得新连接的时间戳比老连接的时间戳大，这样通过时间戳也可以区别出新老连接。 
+// 在这样的优化之下，一个 TIME_WAIT 的 TCP 连接可以忽略掉旧连接，重新被新的连接所使用
+
 
 int main(int argc, char **argv) {
     int listenfd;

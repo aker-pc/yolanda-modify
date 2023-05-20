@@ -18,6 +18,7 @@ int main(int argc, char **argv) {
 
     struct sockaddr_un servaddr;
     char *local_path = argv[1];
+    // unlink 函数的用途： 将现存的文件删除掉，保证幂等性
     unlink(local_path);
     bzero(&servaddr, sizeof(servaddr));
     servaddr.sun_family = AF_LOCAL;

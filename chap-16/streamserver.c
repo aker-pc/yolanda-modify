@@ -19,6 +19,7 @@ int main(int argc, char **argv) {
     struct sockaddr_in server_addr;
     bzero(&server_addr, sizeof(server_addr));
     server_addr.sin_family = AF_INET;
+    // 转换成网络字节序号
     server_addr.sin_addr.s_addr = htonl(INADDR_ANY);
     server_addr.sin_port = htons(SERV_PORT);
 
@@ -49,6 +50,8 @@ int main(int argc, char **argv) {
     count = 0;
 
     while (1) {
+        // readn内部实现 一次行读取指定字节数
+        // 字节流 没有边界
         int n = read_message(connfd, buf, sizeof(buf));
         if (n < 0) {
             error(1, errno, "error read message");
@@ -63,5 +66,10 @@ int main(int argc, char **argv) {
     exit(0);
 
 }
+
+// 非常好的问题。 
+// 我们在网络传输中，一个常见的方法是把0-9这样的数字，直接用ASCII码作为字符发送出去，
+// 在这种情况下，你可以理解成发送出去的都是字符类型的数据，因为是字符类型的数据，就没有所谓的网络顺序了；
+// 而如果作为一个数据型数据，比如125，这时候可能就要作为一个4字节的整型数据进行传输，那么就会有字节序的问题了。
 
 

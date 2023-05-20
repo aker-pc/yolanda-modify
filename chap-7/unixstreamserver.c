@@ -4,7 +4,11 @@
 
 #include  "lib/common.h"
 
-
+// 采用 read、write收发数据
+// 注意事项：
+// 必须是本地文件路径，而非目录的。若不存在，会在bind时创建
+// 需要保障其为绝对路径
+// 需要考虑权限问题
 int main(int argc, char **argv) {
     if (argc != 2) {
         error(1, 0, "usage: unixstreamserver <local_path>");
@@ -67,3 +71,12 @@ int main(int argc, char **argv) {
     exit(0);
 
 }
+
+// TIME_WAIT 无用链接占用端口， 即端口占用、内存占用
+// 本意：保障网络中的数据流正确消亡，以及
+// 时间固定 一般为2MSL 最大报文生命周期的2倍
+// Linux中一般为60s
+// net.ipv4.tcp_tw_reuse 重用
+// 达到指定时间后，仍处于TIME_WAIT,即可立即重用
+// ps: net.ipv4.tcp_timestamps=1 打开对TCP时间戳的支持
+// 无需同步时间，交换后可以获得时间，利用相对时间即可，故无需同步时间戳
