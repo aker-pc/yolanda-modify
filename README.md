@@ -7,3 +7,7 @@
 - 此外，原有课程代码会出现编译不通过的情况（该版本已修改）
   - 原始版本：`target_link_libraries(aio01 yolanda)`
   - 改动为：`target_link_libraries(aio01 yolanda rt)`
+- 目前已添加注释的部分（仍在施工中）
+  - `chap-4`
+  - `chap-5`
+  - `chap-14`
