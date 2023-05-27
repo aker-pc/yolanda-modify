@@ -1,0 +1,1074 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ACCEPTOR_H	lib/acceptor.h	2;"	d
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	450;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	453;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	456;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	459;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	463;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	465;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	467;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	471;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	474;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	477;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	482;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	485;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	488;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	493;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	496;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	499;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	502;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	505;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	508;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	511;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	514;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	517;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	520;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	525;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	528;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	531;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	534;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	537;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	540;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	543;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	435;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	438;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	441;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	444;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	448;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	450;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	452;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	456;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	459;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	462;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	467;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	470;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	473;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	478;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	481;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	484;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	487;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	490;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	493;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	496;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	499;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	502;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	505;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	510;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	513;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	516;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	519;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	522;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	525;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	528;"	d	file:
+BLOCK_QUEUE_SIZE	chap-26/thread02.c	4;"	d	file:
+BUFFER_H	lib/buffer.h	2;"	d
+BUFFER_SIZE	lib/common.h	80;"	d
+BUF_SIZE	chap-30/aio01.c	/^const int BUF_SIZE = 512;$/;"	v
+BadRequest	lib/http_response.h	/^    BadRequest = 400,$/;"	e	enum:HttpStatusCode
+Buffer	chap-22/nonblockingserver.c	/^struct Buffer {$/;"	s	file:
+CHANNEL_H	lib/channel.h	2;"	d
+CHANNEL_MAP_H	lib/channel_map.h	2;"	d
+CLOSE	lib/http_request.c	/^const char *CLOSE = "close";$/;"	v
+CMAKE_BINARY_DIR	build/Makefile	/^CMAKE_BINARY_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify\/build$/;"	m
+CMAKE_BINARY_DIR	build/chap-11/Makefile	/^CMAKE_BINARY_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify\/build$/;"	m
+CMAKE_BINARY_DIR	build/chap-12/Makefile	/^CMAKE_BINARY_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify\/build$/;"	m
+CMAKE_BINARY_DIR	build/chap-13/Makefile	/^CMAKE_BINARY_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify\/build$/;"	m
+CMAKE_BINARY_DIR	build/chap-14/Makefile	/^CMAKE_BINARY_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify\/build$/;"	m
+CMAKE_BINARY_DIR	build/chap-15/Makefile	/^CMAKE_BINARY_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify\/build$/;"	m
+CMAKE_BINARY_DIR	build/chap-16/Makefile	/^CMAKE_BINARY_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify\/build$/;"	m
+CMAKE_BINARY_DIR	build/chap-17/Makefile	/^CMAKE_BINARY_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify\/build$/;"	m
+CMAKE_BINARY_DIR	build/chap-18/Makefile	/^CMAKE_BINARY_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify\/build$/;"	m
+CMAKE_BINARY_DIR	build/chap-20/Makefile	/^CMAKE_BINARY_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify\/build$/;"	m
+CMAKE_BINARY_DIR	build/chap-21/Makefile	/^CMAKE_BINARY_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify\/build$/;"	m
+CMAKE_BINARY_DIR	build/chap-22/Makefile	/^CMAKE_BINARY_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify\/build$/;"	m
+CMAKE_BINARY_DIR	build/chap-23/Makefile	/^CMAKE_BINARY_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify\/build$/;"	m
+CMAKE_BINARY_DIR	build/chap-25/Makefile	/^CMAKE_BINARY_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify\/build$/;"	m
+CMAKE_BINARY_DIR	build/chap-26/Makefile	/^CMAKE_BINARY_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify\/build$/;"	m
+CMAKE_BINARY_DIR	build/chap-27/Makefile	/^CMAKE_BINARY_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify\/build$/;"	m
+CMAKE_BINARY_DIR	build/chap-28/Makefile	/^CMAKE_BINARY_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify\/build$/;"	m
+CMAKE_BINARY_DIR	build/chap-29/Makefile	/^CMAKE_BINARY_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify\/build$/;"	m
+CMAKE_BINARY_DIR	build/chap-30/Makefile	/^CMAKE_BINARY_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify\/build$/;"	m
+CMAKE_BINARY_DIR	build/chap-34/Makefile	/^CMAKE_BINARY_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify\/build$/;"	m
+CMAKE_BINARY_DIR	build/chap-4/Makefile	/^CMAKE_BINARY_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify\/build$/;"	m
+CMAKE_BINARY_DIR	build/chap-5/Makefile	/^CMAKE_BINARY_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify\/build$/;"	m
+CMAKE_BINARY_DIR	build/chap-6/Makefile	/^CMAKE_BINARY_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify\/build$/;"	m
+CMAKE_BINARY_DIR	build/chap-7/Makefile	/^CMAKE_BINARY_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify\/build$/;"	m
+CMAKE_BINARY_DIR	build/lib/Makefile	/^CMAKE_BINARY_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify\/build$/;"	m
+CMAKE_BINARY_DIR	build/mid-homework/Makefile	/^CMAKE_BINARY_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify\/build$/;"	m
+CMAKE_COMMAND	build/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/chap-11/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/chap-12/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/chap-13/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/chap-14/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/chap-15/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/chap-16/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/chap-17/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/chap-18/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/chap-20/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/chap-21/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/chap-22/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/chap-23/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/chap-25/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/chap-26/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/chap-27/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/chap-28/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/chap-29/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/chap-30/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/chap-34/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/chap-4/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/chap-5/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/chap-6/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/chap-7/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/lib/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/mid-homework/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_SOURCE_DIR	build/Makefile	/^CMAKE_SOURCE_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify$/;"	m
+CMAKE_SOURCE_DIR	build/chap-11/Makefile	/^CMAKE_SOURCE_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify$/;"	m
+CMAKE_SOURCE_DIR	build/chap-12/Makefile	/^CMAKE_SOURCE_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify$/;"	m
+CMAKE_SOURCE_DIR	build/chap-13/Makefile	/^CMAKE_SOURCE_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify$/;"	m
+CMAKE_SOURCE_DIR	build/chap-14/Makefile	/^CMAKE_SOURCE_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify$/;"	m
+CMAKE_SOURCE_DIR	build/chap-15/Makefile	/^CMAKE_SOURCE_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify$/;"	m
+CMAKE_SOURCE_DIR	build/chap-16/Makefile	/^CMAKE_SOURCE_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify$/;"	m
+CMAKE_SOURCE_DIR	build/chap-17/Makefile	/^CMAKE_SOURCE_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify$/;"	m
+CMAKE_SOURCE_DIR	build/chap-18/Makefile	/^CMAKE_SOURCE_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify$/;"	m
+CMAKE_SOURCE_DIR	build/chap-20/Makefile	/^CMAKE_SOURCE_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify$/;"	m
+CMAKE_SOURCE_DIR	build/chap-21/Makefile	/^CMAKE_SOURCE_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify$/;"	m
+CMAKE_SOURCE_DIR	build/chap-22/Makefile	/^CMAKE_SOURCE_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify$/;"	m
+CMAKE_SOURCE_DIR	build/chap-23/Makefile	/^CMAKE_SOURCE_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify$/;"	m
+CMAKE_SOURCE_DIR	build/chap-25/Makefile	/^CMAKE_SOURCE_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify$/;"	m
+CMAKE_SOURCE_DIR	build/chap-26/Makefile	/^CMAKE_SOURCE_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify$/;"	m
+CMAKE_SOURCE_DIR	build/chap-27/Makefile	/^CMAKE_SOURCE_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify$/;"	m
+CMAKE_SOURCE_DIR	build/chap-28/Makefile	/^CMAKE_SOURCE_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify$/;"	m
+CMAKE_SOURCE_DIR	build/chap-29/Makefile	/^CMAKE_SOURCE_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify$/;"	m
+CMAKE_SOURCE_DIR	build/chap-30/Makefile	/^CMAKE_SOURCE_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify$/;"	m
+CMAKE_SOURCE_DIR	build/chap-34/Makefile	/^CMAKE_SOURCE_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify$/;"	m
+CMAKE_SOURCE_DIR	build/chap-4/Makefile	/^CMAKE_SOURCE_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify$/;"	m
+CMAKE_SOURCE_DIR	build/chap-5/Makefile	/^CMAKE_SOURCE_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify$/;"	m
+CMAKE_SOURCE_DIR	build/chap-6/Makefile	/^CMAKE_SOURCE_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify$/;"	m
+CMAKE_SOURCE_DIR	build/chap-7/Makefile	/^CMAKE_SOURCE_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify$/;"	m
+CMAKE_SOURCE_DIR	build/lib/Makefile	/^CMAKE_SOURCE_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify$/;"	m
+CMAKE_SOURCE_DIR	build/mid-homework/Makefile	/^CMAKE_SOURCE_DIR = \/home\/aker\/item_prac\/CppItem\/net_socket\/yolanda-modify$/;"	m
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	108;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	115;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	122;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	129;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	137;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	144;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	151;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	159;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	164;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	171;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	174;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	183;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	186;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	189;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	192;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	19;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	207;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	222;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	229;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	243;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	253;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	271;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	280;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	294;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	311;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	314;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	56;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	64;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	70;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	76;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	85;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	94;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	108;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	115;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	122;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	129;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	137;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	13;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	144;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	151;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	159;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	164;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	171;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	174;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	183;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	186;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	19;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	201;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	216;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	223;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	237;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	251;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	269;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	278;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	296;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	299;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	56;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	64;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	70;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	76;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	85;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	94;"	d	file:
+COMPILER_VERSION_INTERNAL	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	226;"	d	file:
+COMPILER_VERSION_INTERNAL	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	285;"	d	file:
+COMPILER_VERSION_INTERNAL	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	290;"	d	file:
+COMPILER_VERSION_INTERNAL	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	220;"	d	file:
+COMPILER_VERSION_INTERNAL	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	283;"	d	file:
+COMPILER_VERSION_INTERNAL	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	288;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	102;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	110;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	117;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	124;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	130;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	139;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	146;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	152;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	160;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	166;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	177;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	195;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	200;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	211;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	223;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	233;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	244;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	255;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	274;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	27;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	282;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	287;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	296;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	301;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	57;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	65;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	72;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	78;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	87;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	97;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	102;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	110;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	117;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	124;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	130;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	139;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	146;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	152;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	15;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	160;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	166;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	177;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	189;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	194;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	205;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	217;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	227;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	239;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	241;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	253;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	272;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	27;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	280;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	285;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	57;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	65;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	72;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	78;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	87;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	97;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	103;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	111;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	118;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	125;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	131;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	140;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	147;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	153;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	161;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	167;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	178;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	196;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	201;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	212;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	224;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	234;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	246;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	256;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	275;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	283;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	288;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	28;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	297;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	302;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	58;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	66;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	73;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	79;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	88;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	98;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	103;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	111;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	118;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	125;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	131;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	140;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	147;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	153;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	161;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	167;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	16;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	178;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	190;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	195;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	206;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	218;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	228;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	244;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	254;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	273;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	281;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	286;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	28;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	58;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	66;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	73;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	79;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	88;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	98;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	104;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	112;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	119;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	126;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	132;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	141;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	148;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	155;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	168;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	179;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	197;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	202;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	213;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	225;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	235;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	249;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	260;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	263;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	276;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	284;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	289;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	298;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	303;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	30;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	32;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	60;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	67;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	81;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	90;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	99;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	104;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	112;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	119;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	126;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	132;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	141;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	148;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	155;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	168;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	179;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	191;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	196;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	207;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	219;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	229;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	247;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	258;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	261;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	274;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	282;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	287;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	30;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	32;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	60;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	67;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	81;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	90;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	99;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	133;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	219;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	267;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	36;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	133;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	213;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	265;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	36;"	d	file:
+CRLF	lib/buffer.c	/^const char *CRLF = "\\r\\n";$/;"	v
+CXX_STD	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	611;"	d	file:
+CXX_STD	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	613;"	d	file:
+CXX_STD	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	616;"	d	file:
+CXX_STD	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	619;"	d	file:
+CXX_STD	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	621;"	d	file:
+C_DIALECT	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	626;"	d	file:
+C_DIALECT	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	628;"	d	file:
+C_DIALECT	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	631;"	d	file:
+C_DIALECT	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	633;"	d	file:
+C_DIALECT	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	635;"	d	file:
+DEC	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	547;"	d	file:
+DEC	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	532;"	d	file:
+DGLEN	chap-14/udpconnectclient02.c	9;"	d	file:
+DGLEN	chap-6/udpclient.c	6;"	d	file:
+EPOLL_ENABLE	build/include/config.h	2;"	d
+EQUALS	build/Makefile	/^EQUALS = =$/;"	m
+EQUALS	build/chap-11/Makefile	/^EQUALS = =$/;"	m
+EQUALS	build/chap-12/Makefile	/^EQUALS = =$/;"	m
+EQUALS	build/chap-13/Makefile	/^EQUALS = =$/;"	m
+EQUALS	build/chap-14/Makefile	/^EQUALS = =$/;"	m
+EQUALS	build/chap-15/Makefile	/^EQUALS = =$/;"	m
+EQUALS	build/chap-16/Makefile	/^EQUALS = =$/;"	m
+EQUALS	build/chap-17/Makefile	/^EQUALS = =$/;"	m
+EQUALS	build/chap-18/Makefile	/^EQUALS = =$/;"	m
+EQUALS	build/chap-20/Makefile	/^EQUALS = =$/;"	m
+EQUALS	build/chap-21/Makefile	/^EQUALS = =$/;"	m
+EQUALS	build/chap-22/Makefile	/^EQUALS = =$/;"	m
+EQUALS	build/chap-23/Makefile	/^EQUALS = =$/;"	m
+EQUALS	build/chap-25/Makefile	/^EQUALS = =$/;"	m
+EQUALS	build/chap-26/Makefile	/^EQUALS = =$/;"	m
+EQUALS	build/chap-27/Makefile	/^EQUALS = =$/;"	m
+EQUALS	build/chap-28/Makefile	/^EQUALS = =$/;"	m
+EQUALS	build/chap-29/Makefile	/^EQUALS = =$/;"	m
+EQUALS	build/chap-30/Makefile	/^EQUALS = =$/;"	m
+EQUALS	build/chap-34/Makefile	/^EQUALS = =$/;"	m
+EQUALS	build/chap-4/Makefile	/^EQUALS = =$/;"	m
+EQUALS	build/chap-5/Makefile	/^EQUALS = =$/;"	m
+EQUALS	build/chap-6/Makefile	/^EQUALS = =$/;"	m
+EQUALS	build/chap-7/Makefile	/^EQUALS = =$/;"	m
+EQUALS	build/lib/Makefile	/^EQUALS = =$/;"	m
+EQUALS	build/mid-homework/Makefile	/^EQUALS = =$/;"	m
+EVENT_DISPATCHER_H	lib/event_dispatcher.h	2;"	d
+EVENT_LOOP_H	lib/event_loop.h	2;"	d
+EVENT_LOOP_THREAD_H	lib/event_loop_thread.h	2;"	d
+EVENT_READ	lib/channel.h	10;"	d
+EVENT_SIGNAL	lib/channel.h	14;"	d
+EVENT_TIMEOUT	lib/channel.h	8;"	d
+EVENT_WRITE	lib/channel.h	12;"	d
+FD_INIT_SIZE	chap-22/nonblockingserver.c	4;"	d	file:
+HEX	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	558;"	d	file:
+HEX	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	543;"	d	file:
+HTTP10	lib/http_request.c	/^const char *HTTP10 = "HTTP\/1.0";$/;"	v
+HTTP11	lib/http_request.c	/^const char *HTTP11 = "HTTP\/1.1";$/;"	v
+HTTP_REQUEST_H	lib/http_request.h	2;"	d
+HTTP_RESPONSE_H	lib/http_response.h	4;"	d
+HTTP_SERVER_H	lib/http_server.h	2;"	d
+HttpStatusCode	lib/http_response.h	/^enum HttpStatusCode {$/;"	g
+ID_VOID_MAIN	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	6;"	d	file:
+INET_ADDRESS_H	lib/inetaddress.h	2;"	d
+INIT_BUFFER_SIZE	lib/buffer.h	4;"	d
+INIT_POLL_SIZE	lib/poll_dispatcher.c	5;"	d	file:
+INIT_REQUEST_HEADER_SIZE	lib/http_request.c	4;"	d	file:
+INIT_RESPONSE_HEADER_SIZE	lib/http_response.c	4;"	d	file:
+INIT_SIZE	chap-21/pollserver.c	3;"	d	file:
+INIT_SIZE	chap-21/pollserver02.c	3;"	d	file:
+KEEP_ALIVE	lib/http_request.c	/^const char *KEEP_ALIVE = "Keep-Alive";$/;"	v
+KEEP_ALIVE_INTERVAL	chap-12/pingclient.c	6;"	d	file:
+KEEP_ALIVE_INTERVAL	chap-22/nonblockingclient.c	5;"	d	file:
+KEEP_ALIVE_PROBETIMES	chap-12/pingclient.c	7;"	d	file:
+KEEP_ALIVE_PROBETIMES	chap-22/nonblockingclient.c	6;"	d	file:
+KEEP_ALIVE_TIME	chap-12/pingclient.c	5;"	d	file:
+KEEP_ALIVE_TIME	chap-22/nonblockingclient.c	4;"	d	file:
+LISTENQ	lib/common.h	79;"	d
+LOG_DEBUG_TYPE	lib/log.h	6;"	d
+LOG_ERR	lib/log.h	18;"	d
+LOG_ERR_TYPE	lib/log.h	9;"	d
+LOG_H	lib/log.h	2;"	d
+LOG_MSG	lib/log.h	17;"	d
+LOG_MSG_TYPE	lib/log.h	7;"	d
+LOG_WARN_TYPE	lib/log.h	8;"	d
+MAXEVENTS	chap-23/epoll01.c	4;"	d	file:
+MAXEVENTS	chap-23/epoll02.c	4;"	d	file:
+MAXEVENTS	chap-23/epoll03.c	4;"	d	file:
+MAXEVENTS	lib/epoll_dispatcher.c	6;"	d	file:
+MAXLINE	chap-11/graceclient.c	3;"	d	file:
+MAXLINE	chap-12/pingclient.c	4;"	d	file:
+MAXLINE	chap-14/udpconnectclient.c	6;"	d	file:
+MAXLINE	chap-14/udpconnectclient02.c	10;"	d	file:
+MAXLINE	chap-20/select01.c	3;"	d	file:
+MAXLINE	chap-22/nonblockingclient.c	3;"	d	file:
+MAXLINE	chap-6/udpclient.c	7;"	d	file:
+MAXLINE	lib/common.h	77;"	d
+MAXLINE	lib/log.c	10;"	d	file:
+MAXLINE	mid-homework/telnet-client.c	3;"	d	file:
+MAX_LINE	chap-22/nonblockingserver.c	3;"	d	file:
+MAX_LINE	chap-25/fork01.c	3;"	d	file:
+MAX_LINE	chap-26/echo.c	3;"	d	file:
+MESSAGE_SIZE	chap-17/reliable_client01.c	3;"	d	file:
+MESSAGE_SIZE	chap-17/reliable_client02.c	3;"	d	file:
+MESSAGE_SIZE	chap-5/tcpclient.c	3;"	d	file:
+MSG_PING	chap-12/message_objecte.h	14;"	d
+MSG_PONG	chap-12/message_objecte.h	15;"	d
+MSG_TYPE1	chap-12/message_objecte.h	16;"	d
+MSG_TYPE2	chap-12/message_objecte.h	17;"	d
+MovedPermanently	lib/http_response.h	/^    MovedPermanently = 301,$/;"	e	enum:HttpStatusCode
+NDG	chap-14/udpconnectclient02.c	8;"	d	file:
+NDG	chap-6/udpclient.c	5;"	d	file:
+NotFound	lib/http_response.h	/^    NotFound = 404,$/;"	e	enum:HttpStatusCode
+OK	lib/http_response.h	/^    OK = 200,$/;"	e	enum:HttpStatusCode
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	339;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	342;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	345;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	348;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	351;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	354;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	357;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	360;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	363;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	366;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	369;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	372;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	375;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	378;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	381;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	384;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	387;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	390;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	393;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	396;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	399;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	402;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	405;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	408;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	412;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	415;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	418;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	421;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	424;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	427;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	432;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	435;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	439;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	324;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	327;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	330;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	333;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	336;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	339;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	342;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	345;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	348;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	351;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	354;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	357;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	360;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	363;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	366;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	369;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	372;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	375;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	378;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	381;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	384;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	387;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	390;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	393;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	397;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	400;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	403;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	406;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	409;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	412;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	417;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	420;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	424;"	d	file:
+REQUEST_BODY	lib/http_request.h	/^    REQUEST_BODY,      \/\/等待解析请求body$/;"	e	enum:http_request_state
+REQUEST_DONE	lib/http_request.h	/^    REQUEST_DONE       \/\/解析完成$/;"	e	enum:http_request_state
+REQUEST_HEADERS	lib/http_request.h	/^    REQUEST_HEADERS,   \/\/等待解析headers$/;"	e	enum:http_request_state
+REQUEST_STATUS	lib/http_request.h	/^    REQUEST_STATUS,    \/\/等待解析状态行$/;"	e	enum:http_request_state
+RM	build/Makefile	/^RM = \/usr\/bin\/cmake -E rm -f$/;"	m
+RM	build/chap-11/Makefile	/^RM = \/usr\/bin\/cmake -E rm -f$/;"	m
+RM	build/chap-12/Makefile	/^RM = \/usr\/bin\/cmake -E rm -f$/;"	m
+RM	build/chap-13/Makefile	/^RM = \/usr\/bin\/cmake -E rm -f$/;"	m
+RM	build/chap-14/Makefile	/^RM = \/usr\/bin\/cmake -E rm -f$/;"	m
+RM	build/chap-15/Makefile	/^RM = \/usr\/bin\/cmake -E rm -f$/;"	m
+RM	build/chap-16/Makefile	/^RM = \/usr\/bin\/cmake -E rm -f$/;"	m
+RM	build/chap-17/Makefile	/^RM = \/usr\/bin\/cmake -E rm -f$/;"	m
+RM	build/chap-18/Makefile	/^RM = \/usr\/bin\/cmake -E rm -f$/;"	m
+RM	build/chap-20/Makefile	/^RM = \/usr\/bin\/cmake -E rm -f$/;"	m
+RM	build/chap-21/Makefile	/^RM = \/usr\/bin\/cmake -E rm -f$/;"	m
+RM	build/chap-22/Makefile	/^RM = \/usr\/bin\/cmake -E rm -f$/;"	m
+RM	build/chap-23/Makefile	/^RM = \/usr\/bin\/cmake -E rm -f$/;"	m
+RM	build/chap-25/Makefile	/^RM = \/usr\/bin\/cmake -E rm -f$/;"	m
+RM	build/chap-26/Makefile	/^RM = \/usr\/bin\/cmake -E rm -f$/;"	m
+RM	build/chap-27/Makefile	/^RM = \/usr\/bin\/cmake -E rm -f$/;"	m
+RM	build/chap-28/Makefile	/^RM = \/usr\/bin\/cmake -E rm -f$/;"	m
+RM	build/chap-29/Makefile	/^RM = \/usr\/bin\/cmake -E rm -f$/;"	m
+RM	build/chap-30/Makefile	/^RM = \/usr\/bin\/cmake -E rm -f$/;"	m
+RM	build/chap-34/Makefile	/^RM = \/usr\/bin\/cmake -E rm -f$/;"	m
+RM	build/chap-4/Makefile	/^RM = \/usr\/bin\/cmake -E rm -f$/;"	m
+RM	build/chap-5/Makefile	/^RM = \/usr\/bin\/cmake -E rm -f$/;"	m
+RM	build/chap-6/Makefile	/^RM = \/usr\/bin\/cmake -E rm -f$/;"	m
+RM	build/chap-7/Makefile	/^RM = \/usr\/bin\/cmake -E rm -f$/;"	m
+RM	build/lib/Makefile	/^RM = \/usr\/bin\/cmake -E rm -f$/;"	m
+RM	build/mid-homework/Makefile	/^RM = \/usr\/bin\/cmake -E rm -f$/;"	m
+SERV_PORT	lib/common.h	76;"	d
+SHELL	build/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/chap-11/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/chap-12/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/chap-13/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/chap-14/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/chap-15/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/chap-16/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/chap-17/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/chap-18/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/chap-20/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/chap-21/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/chap-22/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/chap-23/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/chap-25/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/chap-26/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/chap-27/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/chap-28/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/chap-29/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/chap-30/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/chap-34/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/chap-4/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/chap-5/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/chap-6/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/chap-7/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/lib/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/mid-homework/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SIMULATE_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	209;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	21;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	231;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	24;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	203;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	21;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	225;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	24;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	216;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	238;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	40;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	44;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	46;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	210;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	232;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	40;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	44;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	46;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	217;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	239;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	41;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	49;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	211;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	233;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	41;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	49;"	d	file:
+SIMULATE_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	52;"	d	file:
+SIMULATE_VERSION_PATCH	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	52;"	d	file:
+STRINGIFY	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	335;"	d	file:
+STRINGIFY	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	320;"	d	file:
+STRINGIFY_HELPER	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	334;"	d	file:
+STRINGIFY_HELPER	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	319;"	d	file:
+TCP_CONNECTION	lib/tcp_connection.h	2;"	d
+TCP_SERVER_H	lib/tcp_server.h	2;"	d
+TCPserver	lib/tcp_server.h	/^struct TCPserver {$/;"	s
+THREAD_NUMBER	chap-26/thread02.c	3;"	d	file:
+THREAD_POOL_H	lib/thread_pool.h	2;"	d
+Thread	chap-26/thread02.c	/^} Thread;$/;"	t	typeref:struct:__anon1	file:
+UNIXSTR_PATH	lib/common.h	78;"	d
+UTILS_H	lib/utils.h	2;"	d
+Unknown	lib/http_response.h	/^    Unknown,$/;"	e	enum:HttpStatusCode
+YOLANDA_COMMON_H	lib/common.h	6;"	d
+YOLANDA_MESSAGE_OBJECTE_H	chap-12/message_objecte.h	6;"	d
+acceptor	lib/acceptor.h	/^struct acceptor{$/;"	s
+acceptor	lib/tcp_server.h	/^    struct acceptor *acceptor;$/;"	m	struct:TCPserver	typeref:struct:TCPserver::acceptor
+acceptor_init	lib/acceptor.c	/^struct acceptor *acceptor_init(int port) {$/;"	f
+add	lib/event_dispatcher.h	/^    int (*add)(struct event_loop * eventLoop, struct channel * channel);$/;"	m	struct:event_dispatcher
+add_event_set	chap-21/pollserver02.c	/^void add_event_set(int fd, int event) {$/;"	f
+alloc_Buffer	chap-22/nonblockingserver.c	/^struct Buffer *alloc_Buffer() {$/;"	f
+another_shared	chap-26/thread-helloworld.c	/^int another_shared = 0;$/;"	v
+assertInSameThread	lib/utils.c	/^void assertInSameThread(struct event_loop *eventLoop) {$/;"	f
+block_queue	chap-26/thread02.c	/^} block_queue;$/;"	t	typeref:struct:__anon2	file:
+block_queue_init	chap-26/thread02.c	/^void block_queue_init(block_queue *blockQueue, int number) {$/;"	f
+block_queue_pop	chap-26/thread02.c	/^int block_queue_pop(block_queue *blockQueue) {$/;"	f
+block_queue_push	chap-26/thread02.c	/^void block_queue_push(block_queue *blockQueue, int fd) {$/;"	f
+body	lib/http_response.h	/^    char *body;$/;"	m	struct:http_response
+buffer	chap-22/nonblockingserver.c	/^    char buffer[MAX_LINE];  \/\/实际缓冲$/;"	m	struct:Buffer	file:
+buffer	lib/buffer.h	/^struct buffer {$/;"	s
+buffer_append	lib/buffer.c	/^int buffer_append(struct buffer *buffer, void *data, int size) {$/;"	f
+buffer_append_char	lib/buffer.c	/^int buffer_append_char(struct buffer *buffer, char data) {$/;"	f
+buffer_append_string	lib/buffer.c	/^int buffer_append_string(struct buffer *buffer, char *data) {$/;"	f
+buffer_find_CRLF	lib/buffer.c	/^char *buffer_find_CRLF(struct buffer *buffer) {$/;"	f
+buffer_free	lib/buffer.c	/^void buffer_free(struct buffer *buffer1) {$/;"	f
+buffer_front_spare_size	lib/buffer.c	/^int buffer_front_spare_size(struct buffer *buffer) {$/;"	f
+buffer_new	lib/buffer.c	/^struct buffer *buffer_new() {$/;"	f
+buffer_read_char	lib/buffer.c	/^char buffer_read_char(struct buffer *buffer) {$/;"	f
+buffer_readable_size	lib/buffer.c	/^int buffer_readable_size(struct buffer *buffer) {$/;"	f
+buffer_socket_read	lib/buffer.c	/^int buffer_socket_read(struct buffer *buffer, int fd) {$/;"	f
+buffer_writeable_size	lib/buffer.c	/^int buffer_writeable_size(struct buffer *buffer) {$/;"	f
+channel	lib/channel.h	/^struct channel {$/;"	s
+channel	lib/event_loop.h	/^    struct channel *channel;$/;"	m	struct:channel_element	typeref:struct:channel_element::channel
+channel	lib/tcp_connection.h	/^    struct channel *channel;$/;"	m	struct:tcp_connection	typeref:struct:tcp_connection::channel
+channelMap	lib/event_loop.h	/^    struct channel_map *channelMap;$/;"	m	struct:event_loop	typeref:struct:event_loop::channel_map
+channel_element	lib/event_loop.h	/^struct channel_element {$/;"	s
+channel_event_activate	lib/event_loop.c	/^int channel_event_activate(struct event_loop *eventLoop, int fd, int revents) {$/;"	f
+channel_map	lib/channel_map.h	/^struct channel_map {$/;"	s
+channel_new	lib/channel.c	/^channel_new(int fd, int events, event_read_callback eventReadCallback, event_write_callback eventWriteCallback,$/;"	f
+channel_write_event_disable	lib/channel.c	/^int channel_write_event_disable(struct channel *channel) {$/;"	f
+channel_write_event_enable	lib/channel.c	/^int channel_write_event_enable(struct channel *channel) {$/;"	f
+channel_write_event_is_enabled	lib/channel.c	/^int channel_write_event_is_enabled(struct channel *channel) {$/;"	f
+child_run	chap-25/fork01.c	/^void child_run(int fd) {$/;"	f
+clear	lib/event_dispatcher.h	/^    void (*clear)(struct event_loop * eventLoop);$/;"	m	struct:event_dispatcher
+cond	chap-26/thread02.c	/^    pthread_cond_t cond;$/;"	m	struct:__anon2	file:
+cond	lib/event_loop.h	/^    pthread_cond_t cond;$/;"	m	struct:event_loop
+cond	lib/event_loop_thread.h	/^    pthread_cond_t cond;$/;"	m	struct:event_loop_thread
+connect_fd	chap-22/nonblockingserver.c	/^    int connect_fd;  \/\/连接字$/;"	m	struct:Buffer	file:
+connectionClosedCallBack	lib/tcp_connection.h	/^    connection_closed_call_back connectionClosedCallBack;$/;"	m	struct:tcp_connection
+connectionClosedCallBack	lib/tcp_server.h	/^    connection_closed_call_back connectionClosedCallBack;$/;"	m	struct:TCPserver
+connectionCompletedCallBack	lib/tcp_connection.h	/^    connection_completed_call_back connectionCompletedCallBack;$/;"	m	struct:tcp_connection
+connectionCompletedCallBack	lib/tcp_server.h	/^    connection_completed_call_back connectionCompletedCallBack;$/;"	m	struct:TCPserver
+connection_closed_call_back	lib/tcp_server.h	/^typedef int (*connection_closed_call_back)(struct tcp_connection *tcpConnection);$/;"	t
+connection_completed_call_back	lib/tcp_server.h	/^typedef int (*connection_completed_call_back)(struct tcp_connection *tcpConnection);$/;"	t
+const	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	10;"	d	file:
+contentType	lib/http_response.h	/^    char *contentType;$/;"	m	struct:http_response
+count	chap-11/graceserver.c	/^static int count;$/;"	v	file:
+count	chap-12/pingserver.c	/^static int count;$/;"	v	file:
+count	chap-14/udpconnectserver.c	/^static int count;$/;"	v	file:
+count	chap-15/addressused.c	/^static int count;$/;"	v	file:
+count	chap-15/addressused02.c	/^static int count;$/;"	v	file:
+count	chap-16/streamserver.c	/^static int count;$/;"	v	file:
+count	chap-18/samplebuffer01.c	/^static int count;$/;"	v	file:
+count	chap-18/samplebuffer03.c	/^static int count;$/;"	v	file:
+count	chap-6/udpserver.c	/^static int count;$/;"	v	file:
+count	mid-homework/telnet-server.c	/^static int count;$/;"	v	file:
+current_state	lib/http_request.h	/^    enum http_request_state current_state;$/;"	m	struct:http_request	typeref:enum:http_request::http_request_state
+data	chap-12/message_objecte.h	/^    char data[1024];$/;"	m	struct:__anon3
+data	chap-34/http_server_test.c	/^char *data = "GET \/ HTTP\/1.1\\r\\nHost: localhost:43211\\r\\nUser-Agent: curl\/7.54.0\\r\\nAccept: *\/*\\r\\n\\r\\n";$/;"	v
+data	lib/buffer.h	/^    char *data;          \/\/实际缓冲$/;"	m	struct:buffer
+data	lib/channel.h	/^    void *data; \/\/callback data, 可能是event_loop，也可能是tcp_server或者tcp_connection$/;"	m	struct:channel
+data	lib/tcp_connection.h	/^    void * data; \/\/for callback use: http_server$/;"	m	struct:tcp_connection
+data	lib/tcp_server.h	/^    void * data; \/\/for callback use: http_server$/;"	m	struct:TCPserver
+del	lib/event_dispatcher.h	/^    int (*del)(struct event_loop * eventLoop, struct channel * channel);$/;"	m	struct:event_dispatcher
+dispatch	lib/event_dispatcher.h	/^    int (*dispatch)(struct event_loop * eventLoop, struct timeval *);$/;"	m	struct:event_dispatcher
+efd	lib/epoll_dispatcher.c	/^    int efd;$/;"	m	struct:__anon4	file:
+entries	lib/channel_map.h	/^    void **entries;$/;"	m	struct:channel_map
+epoll_add	lib/epoll_dispatcher.c	/^int epoll_add(struct event_loop *eventLoop, struct channel *channel1) {$/;"	f
+epoll_clear	lib/epoll_dispatcher.c	/^void epoll_clear(struct event_loop *eventLoop) {$/;"	f
+epoll_del	lib/epoll_dispatcher.c	/^int epoll_del(struct event_loop *eventLoop, struct channel *channel1) {$/;"	f
+epoll_dispatch	lib/epoll_dispatcher.c	/^int epoll_dispatch(struct event_loop *eventLoop, struct timeval *timeval) {$/;"	f
+epoll_dispatcher	lib/epoll_dispatcher.c	/^const struct event_dispatcher epoll_dispatcher = {$/;"	v	typeref:struct:event_dispatcher
+epoll_dispatcher_data	lib/epoll_dispatcher.c	/^} epoll_dispatcher_data;$/;"	t	typeref:struct:__anon4	file:
+epoll_init	lib/epoll_dispatcher.c	/^void *epoll_init(struct event_loop *eventLoop) {$/;"	f
+epoll_update	lib/epoll_dispatcher.c	/^int epoll_update(struct event_loop *eventLoop, struct channel *channel1) {$/;"	f
+err_doit	lib/log.c	/^err_doit(int errnoflag, int level, const char *fmt, va_list ap) {$/;"	f	file:
+error	lib/log.c	/^void error(int status, int err, char *fmt, ...) {$/;"	f
+eventDispatcher	lib/event_loop.h	/^    const struct event_dispatcher *eventDispatcher;$/;"	m	struct:event_loop	typeref:struct:event_loop::event_dispatcher
+eventLoop	lib/event_loop_thread.h	/^    struct event_loop *eventLoop;$/;"	m	struct:event_loop_thread	typeref:struct:event_loop_thread::event_loop
+eventLoop	lib/tcp_connection.h	/^    struct event_loop *eventLoop;$/;"	m	struct:tcp_connection	typeref:struct:tcp_connection::event_loop
+eventLoop	lib/tcp_server.h	/^    struct event_loop *eventLoop;$/;"	m	struct:TCPserver	typeref:struct:TCPserver::event_loop
+eventLoopThreads	lib/thread_pool.h	/^    struct event_loop_thread *eventLoopThreads;$/;"	m	struct:thread_pool	typeref:struct:thread_pool::event_loop_thread
+eventReadCallback	lib/channel.h	/^    event_read_callback eventReadCallback;$/;"	m	struct:channel
+eventWriteCallback	lib/channel.h	/^    event_write_callback eventWriteCallback;$/;"	m	struct:channel
+event_count	chap-21/pollserver02.c	/^    int event_count;$/;"	m	struct:pollop	file:
+event_count	lib/epoll_dispatcher.c	/^    int event_count;$/;"	m	struct:__anon4	file:
+event_count	lib/poll_dispatcher.c	/^    int event_count;$/;"	m	struct:poll_dispatcher_data	file:
+event_dispatcher	lib/event_dispatcher.h	/^struct event_dispatcher {$/;"	s
+event_dispatcher_data	lib/event_loop.h	/^    void *event_dispatcher_data;$/;"	m	struct:event_loop
+event_loop	lib/event_loop.h	/^struct event_loop {$/;"	s
+event_loop_add_channel_event	lib/event_loop.c	/^int event_loop_add_channel_event(struct event_loop *eventLoop, int fd, struct channel *channel1) {$/;"	f
+event_loop_channel_buffer_nolock	lib/event_loop.c	/^void event_loop_channel_buffer_nolock(struct event_loop *eventLoop, int fd, struct channel *channel1, int type) {$/;"	f
+event_loop_do_channel_event	lib/event_loop.c	/^int event_loop_do_channel_event(struct event_loop *eventLoop, int fd, struct channel *channel1, int type) {$/;"	f
+event_loop_handle_pending_add	lib/event_loop.c	/^int event_loop_handle_pending_add(struct event_loop *eventLoop, int fd, struct channel *channel) {$/;"	f
+event_loop_handle_pending_channel	lib/event_loop.c	/^int event_loop_handle_pending_channel(struct event_loop *eventLoop) {$/;"	f
+event_loop_handle_pending_remove	lib/event_loop.c	/^int event_loop_handle_pending_remove(struct event_loop *eventLoop, int fd, struct channel *channel1) {$/;"	f
+event_loop_handle_pending_update	lib/event_loop.c	/^int event_loop_handle_pending_update(struct event_loop *eventLoop, int fd, struct channel *channel) {$/;"	f
+event_loop_init	lib/event_loop.c	/^struct event_loop *event_loop_init() {$/;"	f
+event_loop_init_with_name	lib/event_loop.c	/^struct event_loop *event_loop_init_with_name(char *thread_name) {$/;"	f
+event_loop_remove_channel_event	lib/event_loop.c	/^int event_loop_remove_channel_event(struct event_loop *eventLoop, int fd, struct channel *channel1) {$/;"	f
+event_loop_run	lib/event_loop.c	/^int event_loop_run(struct event_loop *eventLoop) {$/;"	f
+event_loop_thread	lib/event_loop_thread.h	/^struct event_loop_thread {$/;"	s
+event_loop_thread_init	lib/event_loop_thread.c	/^int event_loop_thread_init(struct event_loop_thread *eventLoopThread, int i) {$/;"	f
+event_loop_thread_run	lib/event_loop_thread.c	/^void *event_loop_thread_run(void *arg) {$/;"	f
+event_loop_thread_start	lib/event_loop_thread.c	/^struct event_loop *event_loop_thread_start(struct event_loop_thread *eventLoopThread) {$/;"	f
+event_loop_update_channel_event	lib/event_loop.c	/^int event_loop_update_channel_event(struct event_loop *eventLoop, int fd, struct channel *channel1) {$/;"	f
+event_loop_wakeup	lib/event_loop.c	/^void event_loop_wakeup(struct event_loop *eventLoop) {$/;"	f
+event_read_callback	lib/channel.h	/^typedef int (*event_read_callback)(void *data);$/;"	t
+event_set	chap-21/pollserver02.c	/^    struct pollfd *event_set;$/;"	m	struct:pollop	typeref:struct:pollop::pollfd	file:
+event_set	lib/poll_dispatcher.c	/^    struct pollfd *event_set;$/;"	m	struct:poll_dispatcher_data	typeref:struct:poll_dispatcher_data::pollfd	file:
+event_set_copy	chap-21/pollserver02.c	/^    struct pollfd *event_set_copy;$/;"	m	struct:pollop	typeref:struct:pollop::pollfd	file:
+event_set_copy	lib/poll_dispatcher.c	/^    struct pollfd *event_set_copy;$/;"	m	struct:poll_dispatcher_data	typeref:struct:poll_dispatcher_data::pollfd	file:
+event_write_callback	lib/channel.h	/^typedef int (*event_write_callback)(void *data);$/;"	t
+events	lib/channel.h	/^    int events;   \/\/表示event类型$/;"	m	struct:channel
+events	lib/epoll_dispatcher.c	/^    struct epoll_event *events;$/;"	m	struct:__anon4	typeref:struct:__anon4::epoll_event	file:
+fd	chap-26/thread02.c	/^    int *fd;$/;"	m	struct:__anon2	file:
+fd	lib/channel.h	/^    int fd;$/;"	m	struct:channel
+free_Buffer	chap-22/nonblockingserver.c	/^void free_Buffer(struct Buffer *buffer) {$/;"	f
+front	chap-26/thread02.c	/^    int front;$/;"	m	struct:__anon2	file:
+handleWakeup	lib/event_loop.c	/^int handleWakeup(void *data) {$/;"	f
+handle_connection_closed	lib/tcp_connection.c	/^int handle_connection_closed(struct tcp_connection *tcpConnection) {$/;"	f
+handle_connection_established	lib/tcp_server.c	/^int handle_connection_established(void *data) {$/;"	f
+handle_read	lib/tcp_connection.c	/^int handle_read(void *data) {$/;"	f
+handle_write	lib/tcp_connection.c	/^int handle_write(void *data) {$/;"	f
+http_onConnectionClosed	lib/http_server.c	/^int http_onConnectionClosed(struct tcp_connection *tcpConnection) {$/;"	f
+http_onConnectionCompleted	lib/http_server.c	/^int http_onConnectionCompleted(struct tcp_connection *tcpConnection) {$/;"	f
+http_onMessage	lib/http_server.c	/^int http_onMessage(struct buffer *input, struct tcp_connection *tcpConnection) {$/;"	f
+http_onWriteCompleted	lib/http_server.c	/^int http_onWriteCompleted(struct tcp_connection *tcpConnection) {$/;"	f
+http_request	lib/http_request.h	/^struct http_request {$/;"	s
+http_request_add_header	lib/http_request.c	/^void http_request_add_header(struct http_request *httpRequest, char *key, char *value) {$/;"	f
+http_request_clear	lib/http_request.c	/^void http_request_clear(struct http_request *httpRequest) {$/;"	f
+http_request_close_connection	lib/http_request.c	/^int http_request_close_connection(struct http_request *httpRequest) {$/;"	f
+http_request_current_state	lib/http_request.c	/^enum http_request_state http_request_current_state(struct http_request *httpRequest) {$/;"	f
+http_request_get_header	lib/http_request.c	/^char *http_request_get_header(struct http_request *httpRequest, char *key) {$/;"	f
+http_request_new	lib/http_request.c	/^struct http_request *http_request_new() {$/;"	f
+http_request_reset	lib/http_request.c	/^void http_request_reset(struct http_request *httpRequest) {$/;"	f
+http_request_state	lib/http_request.h	/^enum http_request_state {$/;"	g
+http_response	lib/http_response.h	/^struct http_response {$/;"	s
+http_response_encode_buffer	lib/http_response.c	/^void http_response_encode_buffer(struct http_response *httpResponse, struct buffer *output) {$/;"	f
+http_response_new	lib/http_response.c	/^struct http_response *http_response_new() {$/;"	f
+http_server	lib/http_server.h	/^struct http_server {$/;"	s
+http_server_new	lib/http_server.c	/^struct http_server *http_server_new(struct event_loop *eventLoop, int port,$/;"	f
+http_server_start	lib/http_server.c	/^void http_server_start(struct http_server *httpServer) {$/;"	f
+idxplus1	lib/poll_dispatcher.c	/^    int idxplus1;$/;"	m	struct:pollidx	file:
+inet_address	lib/inetaddress.h	/^struct inet_address{$/;"	s
+info_arch	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_arch	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_compiler	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_cray	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_cray	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_language_dialect_default	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	/^const char* info_language_dialect_default =$/;"	v
+info_language_dialect_default	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_dialect_default = "INFO" ":" "dialect_default["$/;"	v
+info_platform	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_simulate	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate_version	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	/^char const info_simulate_version[] = {$/;"	v
+info_simulate_version	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_simulate_version[] = {$/;"	v
+info_version	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	/^char const info_version[] = {$/;"	v
+info_version	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v
+info_version_internal	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	/^char const info_version_internal[] = {$/;"	v
+info_version_internal	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version_internal[] = {$/;"	v
+init	lib/event_dispatcher.h	/^    void *(*init)(struct event_loop * eventLoop);$/;"	m	struct:event_dispatcher
+init_event_set	chap-21/pollserver02.c	/^void init_event_set() {$/;"	f
+input_buffer	lib/tcp_connection.h	/^    struct buffer *input_buffer;   \/\/接收缓冲区$/;"	m	struct:tcp_connection	typeref:struct:tcp_connection::buffer
+isInSameThread	lib/utils.c	/^int isInSameThread(struct event_loop *eventLoop){$/;"	f
+is_handle_pending	lib/event_loop.h	/^    int is_handle_pending;$/;"	m	struct:event_loop
+keep_connected	lib/http_response.h	/^    int keep_connected;$/;"	m	struct:http_response
+key	lib/http_request.h	/^    char *key;$/;"	m	struct:request_header
+key	lib/http_response.h	/^    char *key;$/;"	m	struct:response_header
+listen_fd	lib/acceptor.h	/^    int listen_fd;$/;"	m	struct:acceptor
+listen_port	lib/acceptor.h	/^    int listen_port;$/;"	m	struct:acceptor
+loop_echo	chap-26/echo.c	/^void loop_echo(int fd) {$/;"	f
+main	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	/^int main(argc, argv) int argc; char *argv[];$/;"	f
+main	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f
+main	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f
+main	chap-11/graceclient.c	/^int main(int argc, char **argv) {$/;"	f
+main	chap-11/graceserver.c	/^int main(int argc, char **argv) {$/;"	f
+main	chap-12/pingclient.c	/^int main(int argc, char **argv) {$/;"	f
+main	chap-12/pingserver.c	/^int main(int argc, char **argv) {$/;"	f
+main	chap-13/batchwrite.c	/^int main(int argc, char **argv) {$/;"	f
+main	chap-14/udpconnectclient.c	/^int main(int argc, char **argv) {$/;"	f
+main	chap-14/udpconnectclient02.c	/^int main(int argc, char **argv) {$/;"	f
+main	chap-14/udpconnectserver.c	/^int main(int argc, char **argv) {$/;"	f
+main	chap-15/addressused.c	/^int main(int argc, char **argv) {$/;"	f
+main	chap-15/addressused02.c	/^int main(int argc, char **argv) {$/;"	f
+main	chap-16/streamclient.c	/^int main(int argc, char **argv) {$/;"	f
+main	chap-16/streamserver.c	/^int main(int argc, char **argv) {$/;"	f
+main	chap-17/reliable_client01.c	/^int main(int argc, char **argv) {$/;"	f
+main	chap-17/reliable_client02.c	/^int main(int argc, char **argv) {$/;"	f
+main	chap-17/reliable_server01.c	/^int main(int argc, char **argv) {$/;"	f
+main	chap-17/reliable_server02.c	/^int main(int argc, char **argv) {$/;"	f
+main	chap-18/bufferclient.c	/^int main(int argc, char **argv) {$/;"	f
+main	chap-18/samplebuffer01.c	/^int main(int argc, char **argv) {$/;"	f
+main	chap-18/samplebuffer02.c	/^int main(int argc, char **argv) {$/;"	f
+main	chap-18/samplebuffer03.c	/^int main(int argc, char **argv) {$/;"	f
+main	chap-20/select01.c	/^int main(int argc, char **argv) {$/;"	f
+main	chap-21/pollserver.c	/^int main(int argc, char **argv) {$/;"	f
+main	chap-21/pollserver02.c	/^int main(int argc, char **argv) {$/;"	f
+main	chap-22/nonblockingclient.c	/^int main(int argc, char **argv) {$/;"	f
+main	chap-22/nonblockingserver.c	/^int main(int argc, char **argv) {$/;"	f
+main	chap-23/epoll01.c	/^int main(int argc, char **argv) {$/;"	f
+main	chap-23/epoll02.c	/^int main(int argc, char **argv) {$/;"	f
+main	chap-23/epoll03.c	/^int main(int argc, char **argv) {$/;"	f
+main	chap-25/fork01.c	/^int main(int c, char **v) {$/;"	f
+main	chap-26/thread-helloworld.c	/^int main(int c, char **v) {$/;"	f
+main	chap-26/thread01.c	/^int main(int c, char **v) {$/;"	f
+main	chap-26/thread02.c	/^int main(int c, char **v) {$/;"	f
+main	chap-27/poll-server-onethread.c	/^int main(int c, char **v) {$/;"	f
+main	chap-28/poll-server-multithreads.c	/^int main(int c, char **v) {$/;"	f
+main	chap-28/test01.c	/^int main(int c, char **v) {$/;"	f
+main	chap-29/epoll-server-multithreads.c	/^int main(int c, char **v) {$/;"	f
+main	chap-30/aio01.c	/^int main() {$/;"	f
+main	chap-34/http_server01.c	/^int main(int c, char **v) {$/;"	f
+main	chap-34/http_server_test.c	/^int main() {$/;"	f
+main	chap-4/make_socket.c	/^int main(int argc, char **argv) {$/;"	f
+main	chap-5/tcp_server.c	/^int main(int argc, char **argv) {$/;"	f
+main	chap-5/tcpclient.c	/^int main(int argc, char **argv) {$/;"	f
+main	chap-6/udpclient.c	/^int main(int argc, char **argv) {$/;"	f
+main	chap-6/udpserver.c	/^int main(int argc, char **argv) {$/;"	f
+main	chap-7/unixdataclient.c	/^int main(int argc, char **argv) {$/;"	f
+main	chap-7/unixdataserver.c	/^int main(int argc, char **argv) {$/;"	f
+main	chap-7/unixstreamclient.c	/^int main(int argc, char **argv) {$/;"	f
+main	chap-7/unixstreamserver.c	/^int main(int argc, char **argv) {$/;"	f
+main	mid-homework/telnet-client.c	/^int main(int argc, char **argv) {$/;"	f
+main	mid-homework/telnet-server.c	/^int main(int argc, char **argv) {$/;"	f
+mainLoop	lib/thread_pool.h	/^    struct event_loop *mainLoop;$/;"	m	struct:thread_pool	typeref:struct:thread_pool::event_loop
+make_nonblocking	lib/tcp_server.c	/^void make_nonblocking(int fd) {$/;"	f
+make_room	lib/buffer.c	/^void make_room(struct buffer *buffer, int size) {$/;"	f
+make_socket	chap-4/make_socket.c	/^int make_socket(uint16_t port) {$/;"	f
+map_clear	lib/channel_map.c	/^void map_clear(struct channel_map *map) {$/;"	f
+map_init	lib/channel_map.c	/^void map_init(struct channel_map *map) {$/;"	f
+map_make_space	lib/channel_map.c	/^int map_make_space(struct channel_map *map, int slot, int msize) {$/;"	f
+messageCallBack	lib/tcp_connection.h	/^    message_call_back messageCallBack;$/;"	m	struct:tcp_connection
+messageCallBack	lib/tcp_server.h	/^    message_call_back messageCallBack;$/;"	m	struct:TCPserver
+messageObject	chap-12/message_objecte.h	/^} messageObject;$/;"	t	typeref:struct:__anon3
+message_call_back	lib/tcp_server.h	/^typedef int (*message_call_back)(struct buffer *buffer, struct tcp_connection *tcpConnection);$/;"	t
+method	lib/http_request.h	/^    char *method;$/;"	m	struct:http_request
+mutex	chap-26/thread02.c	/^    pthread_mutex_t mutex;$/;"	m	struct:__anon2	file:
+mutex	lib/event_loop.h	/^    pthread_mutex_t mutex;$/;"	m	struct:event_loop
+mutex	lib/event_loop_thread.h	/^    pthread_mutex_t mutex;$/;"	m	struct:event_loop_thread
+my_pollop	chap-21/pollserver02.c	/^static struct pollop *my_pollop;$/;"	v	typeref:struct:pollop	file:
+name	lib/event_dispatcher.h	/^    const char *name;$/;"	m	struct:event_dispatcher
+name	lib/tcp_connection.h	/^    char *name;$/;"	m	struct:tcp_connection
+nentries	lib/channel_map.h	/^    int nentries;$/;"	m	struct:channel_map
+next	lib/event_loop.h	/^    struct channel_element *next;$/;"	m	struct:channel_element	typeref:struct:channel_element::channel_element
+nfds	chap-21/pollserver02.c	/^    int nfds;$/;"	m	struct:pollop	file:
+nfds	lib/epoll_dispatcher.c	/^    int nfds;$/;"	m	struct:__anon4	file:
+nfds	lib/poll_dispatcher.c	/^    int nfds;$/;"	m	struct:poll_dispatcher_data	file:
+number	chap-26/thread02.c	/^    int number;$/;"	m	struct:__anon2	file:
+onConnectionClosed	chap-27/poll-server-onethread.c	/^int onConnectionClosed(struct tcp_connection *tcpConnection) {$/;"	f
+onConnectionClosed	chap-28/poll-server-multithreads.c	/^int onConnectionClosed(struct tcp_connection *tcpConnection) {$/;"	f
+onConnectionClosed	chap-29/epoll-server-multithreads.c	/^int onConnectionClosed(struct tcp_connection *tcpConnection) {$/;"	f
+onConnectionCompleted	chap-27/poll-server-onethread.c	/^int onConnectionCompleted(struct tcp_connection *tcpConnection) {$/;"	f
+onConnectionCompleted	chap-28/poll-server-multithreads.c	/^int onConnectionCompleted(struct tcp_connection *tcpConnection) {$/;"	f
+onConnectionCompleted	chap-29/epoll-server-multithreads.c	/^int onConnectionCompleted(struct tcp_connection *tcpConnection) {$/;"	f
+onMessage	chap-27/poll-server-onethread.c	/^int onMessage(struct buffer *input, struct tcp_connection *tcpConnection) {$/;"	f
+onMessage	chap-28/poll-server-multithreads.c	/^int onMessage(struct buffer *input, struct tcp_connection *tcpConnection) {$/;"	f
+onMessage	chap-29/epoll-server-multithreads.c	/^int onMessage(struct buffer *input, struct tcp_connection *tcpConnection) {$/;"	f
+onRequest	chap-34/http_server01.c	/^int onRequest(struct http_request *httpRequest, struct http_response *httpResponse) {$/;"	f
+onRequest	chap-34/http_server_test.c	/^int onRequest(struct http_request *httpRequest, struct http_response *httpResponse) {$/;"	f
+onSocketRead	chap-22/nonblockingserver.c	/^int onSocketRead(int fd, struct Buffer *buffer) {$/;"	f
+onSocketWrite	chap-22/nonblockingserver.c	/^int onSocketWrite(int fd, struct Buffer *buffer) {$/;"	f
+onWriteCompleted	chap-27/poll-server-onethread.c	/^int onWriteCompleted(struct tcp_connection *tcpConnection) {$/;"	f
+onWriteCompleted	chap-28/poll-server-multithreads.c	/^int onWriteCompleted(struct tcp_connection *tcpConnection) {$/;"	f
+onWriteCompleted	chap-29/epoll-server-multithreads.c	/^int onWriteCompleted(struct tcp_connection *tcpConnection) {$/;"	f
+output_buffer	lib/tcp_connection.h	/^    struct buffer *output_buffer;  \/\/发送缓冲区$/;"	m	struct:tcp_connection	typeref:struct:tcp_connection::buffer
+owner_thread_id	lib/event_loop.h	/^    pthread_t owner_thread_id;$/;"	m	struct:event_loop
+parse_http_request	lib/http_server.c	/^int parse_http_request(struct buffer *input, struct http_request *httpRequest) {$/;"	f
+pending_head	lib/event_loop.h	/^    struct channel_element *pending_head;$/;"	m	struct:event_loop	typeref:struct:event_loop::channel_element
+pending_tail	lib/event_loop.h	/^    struct channel_element *pending_tail;$/;"	m	struct:event_loop	typeref:struct:event_loop::channel_element
+poll_add	lib/poll_dispatcher.c	/^int poll_add(struct event_loop *eventLoop, struct channel *channel1) {$/;"	f
+poll_clear	lib/poll_dispatcher.c	/^void poll_clear(struct event_loop *eventLoop) {$/;"	f
+poll_del	lib/poll_dispatcher.c	/^int poll_del(struct event_loop *eventLoop, struct channel *channel1) {$/;"	f
+poll_dispatch	lib/poll_dispatcher.c	/^int poll_dispatch(struct event_loop *eventLoop, struct timeval *timeval) {$/;"	f
+poll_dispatcher	lib/poll_dispatcher.c	/^const struct event_dispatcher poll_dispatcher = {$/;"	v	typeref:struct:event_dispatcher
+poll_dispatcher_data	lib/poll_dispatcher.c	/^struct poll_dispatcher_data {$/;"	s	file:
+poll_init	lib/poll_dispatcher.c	/^void *poll_init(struct event_loop *eventLoop) {$/;"	f
+poll_update	lib/poll_dispatcher.c	/^int poll_update(struct event_loop *eventLoop, struct channel *channel1) {$/;"	f
+pollidx	lib/poll_dispatcher.c	/^struct pollidx {$/;"	s	file:
+pollop	chap-21/pollserver02.c	/^struct pollop {$/;"	s	file:
+port	lib/inetaddress.h	/^    int port;$/;"	m	struct:inet_address
+port	lib/tcp_server.h	/^    int port;$/;"	m	struct:TCPserver
+position	lib/thread_pool.h	/^    int position;$/;"	m	struct:thread_pool
+process_status_line	lib/http_server.c	/^int process_status_line(char *start, char *end, struct http_request *httpRequest) {$/;"	f
+qnxnto	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+qnxnto	build/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+quit	lib/event_loop.h	/^    int quit;$/;"	m	struct:event_loop
+readIndex	chap-22/nonblockingserver.c	/^    size_t readIndex;       \/\/缓冲读取位置$/;"	m	struct:Buffer	file:
+readIndex	lib/buffer.h	/^    int readIndex;       \/\/缓冲读取位置$/;"	m	struct:buffer
+read_data	chap-5/tcp_server.c	/^void read_data(int sockfd) {$/;"	f
+read_line	lib/read.c	/^int read_line(int fd, char *buf, int size) {$/;"	f
+read_message	lib/read.c	/^size_t read_message(int fd, char *buffer, size_t length) {$/;"	f
+readable	chap-22/nonblockingserver.c	/^    int readable;           \/\/是否可以读$/;"	m	struct:Buffer	file:
+readline	lib/read.c	/^size_t readline(int fd, char *buffer, size_t length) {$/;"	f
+readline_2	lib/read.c	/^size_t readline_2(int fd, char *buffer, size_t length) {$/;"	f
+readn	lib/read.c	/^size_t readn(int fd, void *buffer, size_t size) {$/;"	f
+realloc_copy	chap-21/pollserver02.c	/^    int realloc_copy;$/;"	m	struct:pollop	file:
+realloc_copy	lib/epoll_dispatcher.c	/^    int realloc_copy;$/;"	m	struct:__anon4	file:
+realloc_copy	lib/poll_dispatcher.c	/^    int realloc_copy;$/;"	m	struct:poll_dispatcher_data	file:
+rear	chap-26/thread02.c	/^    int rear;$/;"	m	struct:__anon2	file:
+recvfrom_int	chap-14/udpconnectserver.c	/^static void recvfrom_int(int signo) {$/;"	f	file:
+recvfrom_int	chap-6/udpserver.c	/^static void recvfrom_int(int signo) {$/;"	f	file:
+request	lib/tcp_connection.h	/^    void * request; \/\/ for callback use$/;"	m	struct:tcp_connection
+requestCallback	lib/http_server.h	/^    request_callback requestCallback;$/;"	m	struct:http_server
+request_callback	lib/http_server.h	/^typedef int (*request_callback)(struct http_request *httpRequest, struct http_response *httpResponse);$/;"	t
+request_header	lib/http_request.h	/^struct request_header {$/;"	s
+request_headers	lib/http_request.h	/^    struct request_header *request_headers;$/;"	m	struct:http_request	typeref:struct:http_request::request_header
+request_headers_number	lib/http_request.h	/^    int request_headers_number;$/;"	m	struct:http_request
+response	lib/tcp_connection.h	/^    void * response; \/\/ for callback use$/;"	m	struct:tcp_connection
+response_header	lib/http_response.h	/^struct response_header {$/;"	s
+response_headers	lib/http_response.h	/^    struct response_header *response_headers;$/;"	m	struct:http_response	typeref:struct:http_response::response_header
+response_headers_number	lib/http_response.h	/^    int response_headers_number;$/;"	m	struct:http_response
+rot13_char	chap-22/nonblockingserver.c	/^char rot13_char(char c) {$/;"	f
+rot13_char	chap-23/epoll01.c	/^char rot13_char(char c) {$/;"	f
+rot13_char	chap-25/fork01.c	/^rot13_char(char c) {$/;"	f
+rot13_char	chap-26/echo.c	/^char rot13_char(char c) {$/;"	f
+rot13_char	chap-27/poll-server-onethread.c	/^char rot13_char(char c) {$/;"	f
+rot13_char	chap-28/poll-server-multithreads.c	/^char rot13_char(char c) {$/;"	f
+rot13_char	chap-29/epoll-server-multithreads.c	/^char rot13_char(char c) {$/;"	f
+run_cmd	mid-homework/telnet-server.c	/^char *run_cmd(char *cmd) {$/;"	f
+send_data	chap-5/tcpclient.c	/^void send_data(int sockfd) {$/;"	f
+sig_int	chap-11/graceserver.c	/^static void sig_int(int signo) {$/;"	f	file:
+sig_int	chap-12/pingserver.c	/^static void sig_int(int signo) {$/;"	f	file:
+sig_int	chap-15/addressused.c	/^static void sig_int(int signo) {$/;"	f	file:
+sig_int	chap-15/addressused02.c	/^static void sig_int(int signo) {$/;"	f	file:
+sig_int	chap-16/streamserver.c	/^static void sig_int(int signo) {$/;"	f	file:
+sig_int	chap-18/samplebuffer01.c	/^static void sig_int(int signo) {$/;"	f	file:
+sig_int	chap-18/samplebuffer03.c	/^static void sig_int(int signo) {$/;"	f	file:
+sig_int	mid-homework/telnet-server.c	/^static void sig_int(int signo) {$/;"	f	file:
+sigchld_handler	chap-25/fork01.c	/^void sigchld_handler(int sig) {$/;"	f
+sock_ntop	lib/sock_ntop.c	/^sock_ntop(const struct sockaddr_in *sin, socklen_t salen) {$/;"	f
+socketPair	lib/event_loop.h	/^    int socketPair[2];$/;"	m	struct:event_loop
+socket_init	chap-28/test01.c	/^int socket_init()$/;"	f
+started	lib/thread_pool.h	/^    int started;$/;"	m	struct:thread_pool
+statusCode	lib/http_response.h	/^    enum HttpStatusCode statusCode;$/;"	m	struct:http_response	typeref:enum:http_response::HttpStatusCode
+statusMessage	lib/http_response.h	/^    char *statusMessage;$/;"	m	struct:http_response
+tcpServer	lib/http_server.h	/^    struct TCPserver *tcpServer;$/;"	m	struct:http_server	typeref:struct:http_server::TCPserver
+tcp_client	lib/tcp_client.c	/^int tcp_client(char *address, int port) {$/;"	f
+tcp_connection	lib/tcp_connection.h	/^struct tcp_connection {$/;"	s
+tcp_connection_new	lib/tcp_connection.c	/^tcp_connection_new(int connected_fd, struct event_loop *eventLoop,$/;"	f
+tcp_connection_send_buffer	lib/tcp_connection.c	/^int tcp_connection_send_buffer(struct tcp_connection *tcpConnection, struct buffer *buffer) {$/;"	f
+tcp_connection_send_data	lib/tcp_connection.c	/^int tcp_connection_send_data(struct tcp_connection *tcpConnection, void *data, int size) {$/;"	f
+tcp_connection_shutdown	lib/tcp_connection.c	/^void tcp_connection_shutdown(struct tcp_connection *tcpConnection) {$/;"	f
+tcp_nonblocking_server_listen	lib/tcp_server.c	/^int tcp_nonblocking_server_listen(int port) {$/;"	f
+tcp_server	lib/tcp_server.c	/^int tcp_server(int port) {$/;"	f
+tcp_server_init	lib/tcp_server.c	/^tcp_server_init(struct event_loop *eventLoop, struct acceptor *acceptor,$/;"	f
+tcp_server_listen	lib/tcp_server.c	/^int tcp_server_listen(int port) {$/;"	f
+tcp_server_set_data	lib/tcp_server.c	/^void tcp_server_set_data(struct TCPserver *tcpServer, void *data) {$/;"	f
+tcp_server_start	lib/tcp_server.c	/^void tcp_server_start(struct TCPserver *tcpServer) {$/;"	f
+threadNum	lib/tcp_server.h	/^    int threadNum;$/;"	m	struct:TCPserver
+threadPool	lib/tcp_server.h	/^    struct thread_pool *threadPool;$/;"	m	struct:TCPserver	typeref:struct:TCPserver::thread_pool
+thread_array	chap-26/thread02.c	/^Thread *thread_array;$/;"	v
+thread_count	chap-26/thread02.c	/^    long thread_count;    \/* # connections handled *\/$/;"	m	struct:__anon1	file:
+thread_count	lib/event_loop_thread.h	/^    long thread_count;    \/* # connections handled *\/$/;"	m	struct:event_loop_thread
+thread_name	lib/event_loop.h	/^    char *thread_name;$/;"	m	struct:event_loop
+thread_name	lib/event_loop_thread.h	/^    char * thread_name;$/;"	m	struct:event_loop_thread
+thread_number	lib/thread_pool.h	/^    int thread_number;$/;"	m	struct:thread_pool
+thread_pool	lib/thread_pool.h	/^struct thread_pool {$/;"	s
+thread_pool_get_loop	lib/thread_pool.c	/^struct event_loop *thread_pool_get_loop(struct thread_pool *threadPool) {$/;"	f
+thread_pool_new	lib/thread_pool.c	/^struct thread_pool *thread_pool_new(struct event_loop *mainLoop, int threadNumber) {$/;"	f
+thread_pool_start	lib/thread_pool.c	/^void thread_pool_start(struct thread_pool *threadPool) {$/;"	f
+thread_run	chap-26/thread-helloworld.c	/^void * thread_run(void *arg) {$/;"	f
+thread_run	chap-26/thread01.c	/^void thread_run(void *arg) {$/;"	f
+thread_run	chap-26/thread02.c	/^void thread_run(void *arg) {$/;"	f
+thread_tid	chap-26/thread02.c	/^    pthread_t thread_tid;        \/* thread ID *\/$/;"	m	struct:__anon1	file:
+thread_tid	lib/event_loop_thread.h	/^    pthread_t thread_tid;        \/* thread ID *\/$/;"	m	struct:event_loop_thread
+total_size	lib/buffer.h	/^    int total_size;      \/\/总大小$/;"	m	struct:buffer
+type	chap-12/message_objecte.h	/^    u_int32_t type;$/;"	m	struct:__anon3
+type	lib/event_loop.h	/^    int type; \/\/1: add  2: delete$/;"	m	struct:channel_element
+update	lib/event_dispatcher.h	/^    int (*update)(struct event_loop * eventLoop, struct channel * channel);$/;"	m	struct:event_dispatcher
+url	lib/http_request.h	/^    char *url;$/;"	m	struct:http_request
+value	lib/http_request.h	/^    char *value;$/;"	m	struct:request_header
+value	lib/http_response.h	/^    char *value;$/;"	m	struct:response_header
+version	lib/http_request.h	/^    char *version;$/;"	m	struct:http_request
+volatile	build/CMakeFiles/3.18.4/CompilerIdC/CMakeCCompilerId.c	11;"	d	file:
+writeCompletedCallBack	lib/tcp_connection.h	/^    write_completed_call_back writeCompletedCallBack;$/;"	m	struct:tcp_connection
+writeCompletedCallBack	lib/tcp_server.h	/^    write_completed_call_back writeCompletedCallBack;$/;"	m	struct:TCPserver
+writeIndex	chap-22/nonblockingserver.c	/^    size_t writeIndex;      \/\/缓冲写入位置$/;"	m	struct:Buffer	file:
+writeIndex	lib/buffer.h	/^    int writeIndex;      \/\/缓冲写入位置$/;"	m	struct:buffer
+write_completed_call_back	lib/tcp_server.h	/^typedef int (*write_completed_call_back)(struct tcp_connection *tcpConnection);$/;"	t
+yolanda_debugx	lib/log.c	/^void yolanda_debugx(const char *fmt, ...)$/;"	f
+yolanda_log	lib/log.c	/^void yolanda_log(int severity, const char *msg) {$/;"	f
+yolanda_logx	lib/log.c	/^void yolanda_logx(int severity, const char *errstr, const char *fmt, va_list ap)$/;"	f
+yolanda_msgx	lib/log.c	/^void yolanda_msgx(const char *fmt, ...)$/;"	f

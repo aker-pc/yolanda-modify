@@ -3,6 +3,29 @@
 #define MAX_LINE 1024
 #define FD_INIT_SIZE 128
 
+// 阻塞IO 拷贝 数据均到发送缓冲区 返回
+// 非阻塞IO 拷贝 返回 拷贝 返回
+
+// read 阻塞下有数据 立即返回， 非阻塞下有数据 同样立即返回
+// read 阻塞下没数据 等待， 非阻塞下没数据 返回-1 并抛出 EAGAIN、EWOULDBLOCK错误
+// write 阻塞下空闲 全部write完返回 非阻塞下空闲 write多少是多少
+// write 阻塞下不空闲 等到空闲 非阻塞下不空闲 返回-1 并抛出 EAGAIN、EWOULDBLOCK错误
+// 例外的情形：阻塞模式下的特例 对方主动关闭套接字，第一次正常返回，第二次返回-1
+
+// 监听套接字设成非阻塞的，便于避免异常带来的影响
+
+// 目的 当套接字关闭的时候发送RST报文
+// RST报文分节后，会一直阻塞
+// struct linger ling；
+// ling.l_onoff = 1;
+// ling.l_linger = 0;
+// setsockopt(socket_fd, SOL_SOCKET, SO_LINGER, &ling, sizeof(ling));
+
+// 非阻塞设置参数
+// fcntl(fd, F_SETFL, O_NONBLOCK)
+
+// 应用层设计缓冲的目的，一方面可以减少系统调用，另一方面在应用层进行报文的解析会方便不少
+
 char rot13_char(char c) {
     if ((c >= 'a' && c <= 'm') || (c >= 'A' && c <= 'M'))
         return c + 13;

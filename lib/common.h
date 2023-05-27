@@ -78,5 +78,4 @@ int tcp_client(char *address, int port);
 #define    UNIXSTR_PATH   "/var/lib/unixstream.sock"
 #define    LISTENQ        1024
 #define    BUFFER_SIZE    4096
-
 #endif //YOLANDA_COMMON_H

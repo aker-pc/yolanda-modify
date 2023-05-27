@@ -2,6 +2,13 @@
 
 #define INIT_SIZE 128
 
+// 函数原型 int poll(struct pollfd *fds, nfds_t nfds, int timeout);
+// fds 监听事件集合 其中pollfd {fd events revents},规避了每次需要重复初始化的开销
+// events 事件主要分为 可读、可写事件
+// reevnts 兼容现有的所有evevnts 此外还有 POLLERR 错误 POLLHUP 挂起 POLLNVAL 无效
+// nfds 最大文件描述符基数
+// timeout 超时判断参数
+
 int main(int argc, char **argv) {
     int listen_fd, connected_fd;
     int ready_number;
@@ -12,6 +19,7 @@ int main(int argc, char **argv) {
     listen_fd = tcp_server_listen(SERV_PORT);
 
     //初始化pollfd数组，这个数组的第一个元素是listen_fd，其余的用来记录将要连接的connect_fd
+    //动态追加数组即可
     struct pollfd event_set[INIT_SIZE];
     event_set[0].fd = listen_fd;
     event_set[0].events = POLLRDNORM;
@@ -23,6 +31,9 @@ int main(int argc, char **argv) {
     }
 
     for (;;) {
+        // poll 函数可以自行忽略fd为-1的events
+        // 因此 我们可以每次都传入INIT_SIZE,而非实际检测的大小
+        // -1 表示当IO事件没发生时，一直阻塞
         if ((ready_number = poll(event_set, INIT_SIZE, -1)) < 0) {
             error(1, errno, "poll failed ");
         }
@@ -43,7 +54,8 @@ int main(int argc, char **argv) {
             if (i == INIT_SIZE) {
                 error(1, errno, "can not hold so many clients");
             }
-
+            
+            // 提高效率，若已全部处理，则继续陷入poll事件的阻塞中
             if (--ready_number <= 0)
                 continue;
         }

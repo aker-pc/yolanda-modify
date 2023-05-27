@@ -1,5 +1,48 @@
 #include "lib/common.h"
 
+// FTP Server采用的常见手段
+// struct timeval tv;
+// tv.tv_sec = 5;
+// tv.tv_usec = 0;
+// setsockopt(connfd, SOL_SOCKET, SO_RCVTIMEO, (const char *) &tv, sizeof tv);
+
+// while (1) {
+//     int nBytes = recv(connfd, buffer, sizeof(buffer), 0);
+//     if (nBytes == -1) {
+//         if (errno == EAGAIN || errno == EWOULDBLOCK) {
+//             printf("read timeout\n");
+//             onClientTimeout(connfd);
+//         } else {
+//             error(1, errno, "error read message");
+//         }
+//     } else if (nBytes == 0) {
+//         error(1, 0, "client closed \n");
+//     }
+//     ...
+// }
+
+// struct timeval tv;
+// tv.tv_sec = 5;
+// tv.tv_usec = 0;
+
+// FD_ZERO(&allreads);
+// FD_SET(socket_fd, &allreads);
+// for (;;) {
+//     readmask = allreads;
+//     int rc = select(socket_fd + 1, &readmask, NULL, NULL, &tv);
+//     if (rc < 0) {
+//       error(1, errno, "select failed");
+//     }
+//     if (rc == 0) {
+//       printf("read timeout\n");
+//       onClientTimeout(socket_fd);
+//     }
+//  ...   
+// }
+
+
+
+
 int main(int argc, char **argv) {
     if (argc != 2) {
         error(1, 0, "usage: tcpclient <IPaddress>");

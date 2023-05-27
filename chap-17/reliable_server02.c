@@ -22,7 +22,7 @@ int main(int argc, char **argv) {
 
         time++;
         fprintf(stdout, "1K read for %d \n", time);
-        usleep(10000);
+        usleep(1000);
     }
 
     exit(0);

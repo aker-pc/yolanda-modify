@@ -15,6 +15,7 @@ int main(int argc, char **argv) {
         int n = read(connfd, buf, 1024);
         if (n < 0) {
             error(1, errno, "error read");
+        // 收到EOF信息啦
         } else if (n == 0) {
             error(1, 0, "client closed \n");
         }
