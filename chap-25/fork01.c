@@ -40,7 +40,16 @@ void child_run(int fd) {
     }
 }
 
-
+// 捕获了子进程退出的信号
+// waitpid -1 表示第一个退出的子进程
+// waitpid 0 表示等待进程组内的任何子进程
+// pid_t waitpid(pid_t pid, int *statloc, int options);
+// pid 等待退出的进程号
+// statoc 返回进程的状态
+// 更多的设置
+// WNOHANG 意为非阻塞，故采用轮询调用
+// 此外reusage参数，在此函数原型中没有提及
+// 意义在于返回资源的摘要
 void sigchld_handler(int sig) {
     while (waitpid(-1, 0, WNOHANG) > 0);
     return;
@@ -58,6 +67,9 @@ int main(int c, char **v) {
             exit(1);
         }
 
+        // 子进程无需关心监听套接字
+        // 父进程无需关心链接套接字
+        // 通过close函数避免资源泄漏  
         if (fork() == 0) {
             close(listener_fd);
             child_run(fd);

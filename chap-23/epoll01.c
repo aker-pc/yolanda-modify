@@ -21,24 +21,42 @@ int main(int argc, char **argv) {
 
     listen_fd = tcp_nonblocking_server_listen(SERV_PORT);
 
+    // epoll_create 等价于 epoll_create1(0)
+    // 不同之处，epoll_create1可以增加额外的参数
+    // 此外，在原版的实现中，epoll_create(int size)用于表示期望监控套接字的数量
+    // 现在可以动态分配，只需要传入一个大于0的数字可以
     efd = epoll_create1(0);
     if (efd == -1) {
         error(1, errno, "epoll create failed");
     }
 
+    // 水平触发 有数据就读 边缘触发 新事件第一次产生时才会触发：
     event.data.fd = listen_fd;
-    event.events = EPOLLIN | EPOLLET;
+    event.events = EPOLLIN | EPOLLET; // 注意：此处是边缘触发
+
+    // int epoll_ctl(int epfd, int op, int fd, struct epoll_event *event);
+    // epfd 由epoll_create创建
+    // 相应的操作描述符 EPOLL_CTL_ADD\EPOLL_CTL_DEL\EPOLL_CTL_MOD
+    // 待监听的注册事件的描述符
+    // 待监听的注册事件的类型
     if (epoll_ctl(efd, EPOLL_CTL_ADD, listen_fd, &event) == -1) {
         error(1, errno, "epoll_ctl add listen fd failed");
     }
 
+    // 为事件数组分配内存
     /* Buffer where events are returned */
     events = calloc(MAXEVENTS, sizeof(event));
 
     while (1) {
+        // int epoll_wait(int epfd, struct epoll_event *events, int maxevents, int timeout);
+        // epfd 由epoll_create创建
+        // 待处理的IO事件
+        // 可以返回的最大事件值
+        // 超时值 -1 不超时， 0 立即返回
         n = epoll_wait(efd, events, MAXEVENTS, -1);
         printf("epoll_wait wakeup\n");
         for (i = 0; i < n; i++) {
+            // 处理异常情况
             if ((events[i].events & EPOLLERR) ||
                 (events[i].events & EPOLLHUP) ||
                 (!(events[i].events & EPOLLIN))) {
@@ -46,6 +64,7 @@ int main(int argc, char **argv) {
                 close(events[i].data.fd);
                 continue;
             } else if (listen_fd == events[i].data.fd) {
+                // 存储已accept的链接
                 struct sockaddr_storage ss;
                 socklen_t slen = sizeof(ss);
                 int fd = accept(listen_fd, (struct sockaddr *) &ss, &slen);
